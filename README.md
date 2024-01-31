@@ -51,12 +51,16 @@ There are 5 packages we need to import:
     b.	Tokenization of words (generate bag-of-words)
 
 3.	Split the data
+
     a.	X_train + y_train (e.g., 80% of the entire dataset)
+
     b.	X_test + y_test (e.g., 20% of the entire dataset)
+
 4.	Instantiate a classifier
 5.	Fit the classifier to the training data (i.e., X_train and y_train)
 6.	Generate predicted tags (i.e., X_test)
 7.	Calculate an accuracy score (i.e., y_test, y_pred)
+
     a.	Visualize the accuracy with a confusion matrix 
 
 
