@@ -45,8 +45,11 @@ There are 5 packages we need to import:
 **Our strategic approach is as follows:**
 1.	Acquire the data
 2.	Pre-process the data
+
     a.	Open each file (i.e., email)
+
     b.	Tokenization of words (generate bag-of-words)
+
 3.	Split the data
     a.	X_train + y_train (e.g., 80% of the entire dataset)
     b.	X_test + y_test (e.g., 20% of the entire dataset)
