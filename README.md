@@ -16,6 +16,7 @@ The code performs Exploratory Data Analysis (EDA) with the goal of preparing the
 **Overview:** Our objective is a Natural Language Processing (NLP) task, which falls under the classification type of ML since it focuses on language and text. The classification pre-processes in NLP must convert the text to zero and one’s as well as a dictionary (or bag-of-words) as a vector or matrix, which is performed by our code. Once the pre-processing is complete, the data is split. The training data consists of features (i.e., features_matrix) and a target (e.g., labels). A model is then generated from the trained data (e.g., pred), which is compared to the testing dataset (i.e., test_labels). The code runs a comparison analysis that results in an accuracy score, which is then further visualized by a confusion matrix.
 
 **Libraries**
+
 There are 5 packages we need to import:
 1. os
 2. numpy
