@@ -1,4 +1,4 @@
-![image](https://github.com/ValentinGulyas/ML_course/assets/144483901/bf5aa18f-9c87-4a0f-aa70-0fa31d047a22)# ML_course
+ML_course
 **------------------------------------------------------------------------------**
 CA01
 
@@ -51,7 +51,6 @@ There are 5 packages we need to import:
 6.	Generate predicted tags (i.e., X_test)
 7.	Calculate an accuracy score (i.e., y_test, y_pred)
     a.	Visualize the accuracy with a confusion matrix 
-![image](https://github.com/ValentinGulyas/ML_course/assets/144483901/3471ca38-a45c-4230-8dd6-b27634ca2040)
 
 
 Repository for my ML course
