@@ -64,4 +64,25 @@ There are 5 packages we need to import:
     a.	Visualize the accuracy with a confusion matrix 
 
 
+**---------------------------------**
+
+** CA03 **
+
+This code includes an ML model (CART) that uses DecisionTreeClassifier.
+
+The necessary libraries for running this program are:
+1. pandas
+2. numpy
+3. matplotlib
+4. from sklearn.tree import DecisionTreeClassifier # for decision tree algorithms
+5. from sklearn.model_selection import train_test_split # for training, testing, and splitting the data
+6. from sklearn import metrics # for calculating performance metrics
+7. import time # evaluate the execution time of each model
+
+This program also performs hyper-paramater tuning, in which we aim to identify the optimal hyper-parameters of:
+1. Critertion
+2. Minimum Sample Leaf
+3. Maximum Feature
+4. Maximum Depth
+
 Repository for my ML course
